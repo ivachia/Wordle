@@ -3,9 +3,7 @@ import pandas as pd
 import csv
 choice = 'y'
 while choice=='y' or choice=='Y':
- print(" WELCOME TO ")
- print(" LEXICON CONQUEROR")
- print("MADE BY ISHANI and CHHAVI of XII:A")
+ print(" WELCOME TO YOU !")
  print ("RULE")
  print("There's one randomly selected word of FIVE ,SEVEN OR EIGHT letters")
  print("you will get FEW attempts to guess the word according to the level")
